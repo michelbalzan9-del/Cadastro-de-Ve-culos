@@ -61,7 +61,7 @@ String lerTextoObrigatorio(String mensagem) {
 
 int lerAno() {
     while (true) {
-        int ano = lerInt("Informe o ano do Veículo:");
+        int ano = lerInt("Informe o ano:");
         if (Veiculo.validaAno(ano))
             return ano;
         IO.println("Ano inválido! Deve estar entre " + Veiculo.ANO_MINIMO
