@@ -10,5 +10,4 @@
 # Otavio Biazus de Mello; RA: 1139244;
 
 # Tecnologias Utilizadas:
-
 # Java 25, Programação Orientada a Objetos (POO), List / ArrayList, LocalDateExpressões regulares (regex), Tratamento de exceções, Git / GitHub.
